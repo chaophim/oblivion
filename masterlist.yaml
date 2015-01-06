@@ -7590,7 +7590,7 @@ plugins:
     dirty:
       - crc: 0xd7e2759e
         util: *dirtyUtil
-        itm: 19
+        itm: 0
   - name: 'Harvest[Containers] - Player Home Add-on.esp'
     msg:
       - type: say
@@ -13069,8 +13069,8 @@ plugins:
     dirty:
       - crc: 0x363cd1f4
         util: *dirtyUtil
-        itm: 6
-        udr: 5
+        itm: 5
+        udr: 6
   - name: '24HrArenaAliveLow.esp'
     dirty:
       - crc: 0x7009adae
